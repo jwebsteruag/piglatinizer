@@ -20,9 +20,19 @@ $( document ).ready(function() {
 
 // Create the wordToPigLatin function that takes a word as a parameter and returns a transfromed word. 
 function wordToPigLatin(word){
+	for (var i = 1; i < word.length; i--;){
+     $('body').append("ay");
+	
 	return word + "ay"
 }
-
+if(var i = 'y' || var i = 'a'|| var i = 'e' var i = 'i' || var i = 'o'|| var i = 'u');
+}
+	return word.slice(word.length-1) 
+{
+else
+{
+	return word;
+}
 
 
 
